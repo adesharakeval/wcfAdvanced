@@ -1,0 +1,5 @@
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\Burger\bin\Debug\Burger.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\Burger\bin\Debug\Burger.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\Burger\obj\Debug\ResolveAssemblyReference.cache
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\Burger\obj\Debug\Burger.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\Burger\obj\Debug\Burger.pdb

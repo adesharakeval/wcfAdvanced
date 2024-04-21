@@ -1,0 +1,13 @@
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\bin\Debug\Customer1.exe.config
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\bin\Debug\Customer1.exe
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\bin\Debug\Customer1.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\Customer1.Form1.resources
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\Customer1.Properties.Resources.resources
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\Customer1.exe
+c:\users\krunal\documents\visual studio 2010\Projects\Customer1\Customer1\obj\x86\Debug\Customer1.pdb
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfAdvanced\KrunalTrivediAdvancedWCF\Customer1\Customer1\bin\Debug\Customer1.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfAdvanced\KrunalTrivediAdvancedWCF\Customer1\Customer1\obj\x86\Debug\Customer1.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfAdvanced\KrunalTrivediAdvancedWCF\Customer1\Customer1\obj\x86\Debug\Customer1.pdb

@@ -1,0 +1,13 @@
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\ResaurantHost.exe
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\ResaurantHost.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\RestorentService.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\Burger.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\RestorentService.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\Burger.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\obj\x86\Debug\ResaurantHost.exe
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\obj\x86\Debug\ResaurantHost.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\ResaurantHost\bin\Debug\ResaurantHost.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfAdvanced\KrunalTrivediAdvancedWCF\Burger\ResaurantHost\bin\Debug\ResaurantHost.exe.config
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfAdvanced\KrunalTrivediAdvancedWCF\Burger\ResaurantHost\obj\x86\Debug\ResaurantHost.exe
+C:\Users\Krunal\Desktop\DotNET4\WCF\wcfAdvanced\KrunalTrivediAdvancedWCF\Burger\ResaurantHost\obj\x86\Debug\ResaurantHost.pdb

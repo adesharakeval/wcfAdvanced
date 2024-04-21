@@ -1,0 +1,10 @@
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\bin\Debug\Customer2.exe.config
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\bin\Debug\Customer2.exe
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\bin\Debug\Customer2.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\Customer2.Form1.resources
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\Customer2.Properties.Resources.resources
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\Customer2.exe
+c:\users\krunal\documents\visual studio 2010\Projects\Customer2\Customer2\obj\x86\Debug\Customer2.pdb

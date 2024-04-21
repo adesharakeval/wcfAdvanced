@@ -1,0 +1,7 @@
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\bin\Debug\RestorentService.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\bin\Debug\RestorentService.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\bin\Debug\Burger.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\bin\Debug\Burger.pdb
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\obj\Debug\RestorentService.dll
+c:\users\krunal\documents\visual studio 2010\Projects\Burger\RestorentService\obj\Debug\RestorentService.pdb
